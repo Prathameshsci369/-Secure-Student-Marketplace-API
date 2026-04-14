@@ -103,4 +103,5 @@ secure-marketplace/
 
 ## 👨‍💻 Author
 **Prathamesh Anand**
-Backend Enthusiast*
+
+*Backend Enthusiast*
