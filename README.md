@@ -32,7 +32,7 @@ This project implements several critical security measures to ensure a productio
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/secure-marketplace.git
+    git clone https://github.com/Prathameshsci369/-Secure-Student-Marketplace-API.git
     cd secure-marketplace
     ```
 
